@@ -1,2 +1,2 @@
-# hello-world
-> 测试GitHub中仓库repository的用法
+# b&cap
+> 用Java实现遗传算法求泊位岸桥分配问题的近似最优解
